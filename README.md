@@ -23,7 +23,7 @@ This is a simple law firm website developed using HTML, CSS, and JavaScript. The
 Clone the repository:
 
 ```bash
-  git clone https://github.com/smridhi29/law.git
+  git clone https://github.com/smridhi29/LegalAlchemy.com.git
   ```
 Navigate to the project directory:
 ```bash
